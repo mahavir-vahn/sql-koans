@@ -57,3 +57,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# SQL koans local playground / stray files
+library.db
+.headers
+.mode
+.quit
+select
